@@ -1,3 +1,13 @@
+header {
+    text-align: center;
+    font: Courier;
+    outline-style: none;
+}
 body {
     background-color: aqua;
+    outline-style: double;
+}
+
+p {
+    text-align: center;
 }
