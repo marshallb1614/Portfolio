@@ -2,12 +2,18 @@ header {
     text-align: center;
     font: Courier;
     outline-style: none;
+    background-color: cornflowerblue;
+    padding
 }
 body {
-    background-color: aqua;
+    background-color: teal;
     outline-style: double;
 }
 
-p {
-    text-align: center;
+ul {
+    list-style-type: none;
+    text-align: right;
+    box-sizing: 300px;
+    display: block;
+    background-color: cornflowerblue;
 }
