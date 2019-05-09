@@ -12,7 +12,7 @@ body {
 
 ul {
     list-style-type: none;
-    text-align: right;
+    text-align: left;
     box-sizing: 300px;
     display: block;
     background-color: cornflowerblue;

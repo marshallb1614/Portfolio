@@ -10,7 +10,7 @@
      margin-bottom: 10px;
    }
    nav.navigation  ul {
-     list-style: none;
+     list-style-type: none;
      font-size: 14px; 
      text-align: center;
    }
@@ -78,4 +78,9 @@
   * html .clearfix {
     height: 1%;
   }
-     
+
+  body {
+    background-color: teal;
+  }
+
+  

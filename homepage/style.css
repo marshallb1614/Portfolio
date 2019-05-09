@@ -8,8 +8,15 @@ p {
 
 h3 {
     background-color: aqua;
+    color: blue;
 }
 
 p3 {
-    background-color: beige;
+    background-color: purple;
+    color: magenta;
+}
+
+ul{ 
+    list-style-type: none;
+    text-align: left;
 }
