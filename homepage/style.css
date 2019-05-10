@@ -7,16 +7,18 @@ p {
 }
 
 h3 {
-    background-color: aqua;
-    color: blue;
+    color: black;
 }
 
 p3 {
-    background-color: purple;
-    color: magenta;
+    color: black;
 }
 
 ul{ 
     list-style-type: none;
     text-align: left;
+}
+
+h1 {
+    background-color: lime;
 }

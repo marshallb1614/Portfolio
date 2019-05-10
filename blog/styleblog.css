@@ -36,6 +36,10 @@
      margin: 0;
      text-decoration: none;
    }
+
+   ul {
+     list-style-type: none;
+   }
      
 
 /* page Content */
@@ -47,14 +51,14 @@
     width: 35%;
     float: left;
     margin: 0 15px;
-    background: #ccc; 
+    background: #fe2721; 
     min-height: 500px; 
     text-align: center;
   }
   #right {
     float: right;
     width: 62%;
-    background: #efefef; 
+    background: #fe2721; 
     text-align: center;
     min-height: 500px;
   }
@@ -82,5 +86,4 @@
   body {
     background-color: teal;
   }
-
   
